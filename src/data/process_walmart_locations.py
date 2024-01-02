@@ -47,4 +47,4 @@ def process_walmart_data(input_file, output_file):
 
 # Usage
 process_walmart_data('//data/raw/walmart_locations_raw.txt',
-                     '//data/processed/walmart_locations.csv')
+                     '//data/processed/walmart.csv')

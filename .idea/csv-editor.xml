@@ -17,6 +17,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/interim/walmart_locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/interim/zip_code_classifications_sample.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/processed/zip_code_classifications.csv">
           <value>
             <Attribute>

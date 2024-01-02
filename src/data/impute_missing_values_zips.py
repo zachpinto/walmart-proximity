@@ -18,4 +18,4 @@ def fill_missing_values(input_file_path, output_file_path):
 # Usage
 fill_missing_values('//data/external/zips.csv',
                     '//data/processed/'
-                    'zip_code_classifications.csv')
+                    'zips.csv')

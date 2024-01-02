@@ -1,0 +1,374 @@
+zip,ruca,city,state_name,population,county,median_household_income,stratum_size,sample_proportion,stratum_sample_size
+35575,Rural,Lynn,Alabama,"1,020",Winston,"$43,289",82,0.002438081646002438,1
+36866,Suburban,Notasulga,Alabama,"4,145",Macon,"$52,123",365,0.010852436595010853,4
+36026,Suburban,Equality,Alabama,"1,239",Coosa,"$89,375",365,0.010852436595010853,4
+35972,Suburban,Gallant,Alabama,"1,036",Etowah,,365,0.010852436595010853,4
+35987,Suburban,Steele,Alabama,"2,483",St. Clair,"$62,703",365,0.010852436595010853,4
+35211,Urban,Birmingham,Alabama,"24,762",Jefferson,"$33,043",209,0.0062141349270062145,2
+36615,Urban,Mobile,Alabama,0,Mobile,,209,0.0062141349270062145,2
+99566,Rural,Chitina,Alaska,81,Copper River,,185,0.005500550055005501,2
+99922,Rural,Hydaburg,Alaska,319,Prince of Wales-Hyder,"$45,938",185,0.005500550055005501,2
+85640,Rural,Tumacacori,Arizona,86,Santa Cruz,,63,0.0018731602890018732,1
+85530,Suburban,Bylas,Arizona,"1,514",Graham,"$37,564",134,0.003984182202003984,2
+85371,Suburban,Poston,Arizona,250,La Paz,,134,0.003984182202003984,2
+85282,Urban,Tempe,Arizona,"52,066",Maricopa,"$64,151",220,0.006541194660006541,2
+85045,Urban,Phoenix,Arizona,"6,645",Maricopa,"$141,615",220,0.006541194660006541,2
+72141,Rural,Scotland,Arkansas,515,Van Buren,"$35,313",136,0.004043647608004044,2
+72064,Rural,Hazen,Arkansas,"2,793",Prairie,"$55,139",136,0.004043647608004044,2
+72384,Suburban,Turrell,Arkansas,821,Crittenden,"$34,779",376,0.01117949632801118,4
+72059,Suburban,Gregory,Arkansas,46,Woodruff,,376,0.01117949632801118,4
+72396,Suburban,Wynne,Arkansas,"12,687",Cross,"$49,076",376,0.01117949632801118,4
+72855,Suburban,Paris,Arkansas,"6,079",Logan,"$43,913",376,0.01117949632801118,4
+72376,Urban,Proctor,Arkansas,"1,454",Crittenden,"$41,111",103,0.0030624684090030624,1
+96054,Rural,Lookout,California,237,Modoc,"$56,875",237,0.007046650611007047,3
+95511,Rural,Alderpoint,California,102,Humboldt,"$2,499",237,0.007046650611007047,3
+95246,Rural,Mountain Ranch,California,"1,305",Calaveras,"$71,094",237,0.007046650611007047,3
+93648,Suburban,Parlier,California,"15,507",Fresno,"$44,632",424,0.012606666072012607,5
+92630,Suburban,Lake Forest,California,"66,621",Orange,"$108,963",424,0.012606666072012607,5
+93428,Suburban,Cambria,California,"5,721",San Luis Obispo,"$87,961",424,0.012606666072012607,5
+95987,Suburban,Williams,California,"6,370",Colusa,"$77,545",424,0.012606666072012607,5
+93563,Suburban,Valyermo,California,247,Los Angeles,"$210,600",424,0.012606666072012607,5
+91978,Urban,Spring Valley,California,"10,979",San Diego,"$82,885",1141,0.03392501412303393,13
+93215,Urban,Delano,California,"55,487",Kern,"$47,586",1141,0.03392501412303393,13
+93441,Urban,Los Olivos,California,"1,059",Santa Barbara,"$111,587",1141,0.03392501412303393,13
+95215,Urban,Stockton,California,"26,898",San Joaquin,"$51,462",1141,0.03392501412303393,13
+95833,Urban,Sacramento,California,"40,853",Sacramento,"$74,677",1141,0.03392501412303393,13
+92071,Urban,Santee,California,"59,826",San Diego,"$93,043",1141,0.03392501412303393,13
+90650,Urban,Norwalk,California,"103,427",Los Angeles,"$83,217",1141,0.03392501412303393,13
+92868,Urban,Orange,California,"27,233",Orange,"$79,722",1141,0.03392501412303393,13
+92883,Urban,Corona,California,"35,788",Riverside,"$112,151",1141,0.03392501412303393,13
+94609,Urban,Oakland,California,"24,623",Alameda,"$99,783",1141,0.03392501412303393,13
+93710,Urban,Fresno,California,"33,507",Fresno,"$55,175",1141,0.03392501412303393,13
+91214,Urban,La Crescenta,California,"32,009",Los Angeles,"$116,201",1141,0.03392501412303393,13
+90404,Urban,Santa Monica,California,"23,460",Los Angeles,"$74,591",1141,0.03392501412303393,13
+81243,Rural,Powderhorn,Colorado,65,Gunnison,"$68,333",156,0.004638301668004639,2
+81040,Rural,Gardner,Colorado,201,Huerfano,,156,0.004638301668004639,2
+81081,Suburban,Trinchera,Colorado,157,Las Animas,,179,0.005322153837005322,2
+80833,Suburban,Rush,Colorado,921,Lincoln,"$36,380",179,0.005322153837005322,2
+80129,Urban,Littleton,Colorado,"30,340",Douglas,"$118,876",192,0.0057086789760057086,2
+80224,Urban,Denver,Colorado,"18,995",Denver,"$70,327",192,0.0057086789760057086,2
+6758,Suburban,Lakeside,Connecticut,32,Litchfield,"$67,708",67,0.001992091101001992,1
+6488,Urban,Southbury,Connecticut,"19,866",New Haven,"$102,044",204,0.006065471412006066,2
+6907,Urban,Stamford,Connecticut,"8,849",Fairfield,"$99,861",204,0.006065471412006066,2
+19904,Urban,Dover,Delaware,"37,940",Kent,"$60,014",50,0.0014866351500014865,1
+20520,Urban,Washington,District of Columbia,0,District of Columbia,,57,0.0016947640710016948,1
+32347,Suburban,Perry,Florida,"7,072",Taylor,"$49,430",251,0.007462908453007463,3
+34956,Suburban,Indiantown,Florida,"9,751",Martin,"$45,234",251,0.007462908453007463,3
+34608,Suburban,Spring Hill,Florida,"35,708",Hernando,"$53,764",251,0.007462908453007463,3
+33993,Urban,Cape Coral,Florida,"29,502",Lee,"$74,807",734,0.021823804002021822,8
+33068,Urban,Pompano Beach,Florida,"52,541",Broward,"$50,463",734,0.021823804002021822,8
+32784,Urban,Umatilla,Florida,"10,929",Marion,"$61,952",734,0.021823804002021822,8
+33473,Urban,Boynton Beach,Florida,"11,454",Palm Beach,"$131,484",734,0.021823804002021822,8
+33837,Urban,Davenport,Florida,"34,428",Polk,"$63,266",734,0.021823804002021822,8
+34729,Urban,Ferndale,Florida,32,Lake,,734,0.021823804002021822,8
+33954,Urban,Port Charlotte,Florida,"10,355",Charlotte,"$73,098",734,0.021823804002021822,8
+33166,Urban,Miami,Florida,"25,177",Miami-Dade,"$65,902",734,0.021823804002021822,8
+30559,Rural,Mineral Bluff,Georgia,"4,507",Fannin,"$48,643",51,0.0015163678530015164,1
+30830,Suburban,Waynesboro,Georgia,"14,934",Burke,"$49,581",396,0.011774150388011774,4
+31816,Suburban,Manchester,Georgia,"4,956",Meriwether,"$37,280",396,0.011774150388011774,4
+31323,Suburban,Riceboro,Georgia,"1,562",Liberty,"$41,234",396,0.011774150388011774,4
+31553,Suburban,Nahunta,Georgia,"4,777",Brantley,"$40,903",396,0.011774150388011774,4
+31034,Urban,Hardwick,Georgia,166,Baldwin,,304,0.009038741712009038,3
+30436,Urban,Lyons,Georgia,"11,672",Toombs,"$41,528",304,0.009038741712009038,3
+31027,Urban,East Dublin,Georgia,"10,202",Laurens,"$39,573",304,0.009038741712009038,3
+96789,Urban,Mililani,Hawaii,"55,249",Honolulu,"$110,840",47,0.0013974370410013974,1
+83325,Rural,Eden,Idaho,700,Jerome,"$59,107",97,0.002884072191002884,1
+83868,Suburban,Smelterville,Idaho,656,Shoshone,"$41,094",128,0.003805785984003806,1
+83661,Urban,Payette,Idaho,"10,321",Payette,"$52,188",54,0.0016055659620016055,1
+61473,Rural,Roseville,Illinois,"1,176",Warren,"$48,750",135,0.004013914905004014,2
+61415,Rural,Avon,Illinois,"1,789",Fulton,"$55,903",135,0.004013914905004014,2
+62862,Suburban,Mill Shoals,Illinois,325,White,"$56,786",783,0.023280706449023282,9
+61532,Suburban,Forest City,Illinois,485,Mason,"$48,750",783,0.023280706449023282,9
+61042,Suburban,Harmon,Illinois,501,Lee,"$54,167",783,0.023280706449023282,9
+61734,Suburban,Delavan,Illinois,"2,647",Tazewell,"$65,655",783,0.023280706449023282,9
+61830,Suburban,Cisco,Illinois,495,Piatt,"$63,000",783,0.023280706449023282,9
+62441,Suburban,Marshall,Illinois,"6,994",Clark,"$74,435",783,0.023280706449023282,9
+62642,Suburban,Greenview,Illinois,"1,276",Menard,"$68,319",783,0.023280706449023282,9
+61410,Suburban,Abingdon,Illinois,"3,898",Knox,"$49,732",783,0.023280706449023282,9
+62422,Suburban,Cowden,Illinois,994,Shelby,"$48,929",783,0.023280706449023282,9
+61008,Urban,Belvidere,Illinois,"34,420",Boone,"$66,594",478,0.014212232034014212,5
+60714,Urban,Niles,Illinois,"31,208",Cook,"$70,085",478,0.014212232034014212,5
+60074,Urban,Palatine,Illinois,"37,655",Cook,"$70,999",478,0.014212232034014212,5
+61764,Urban,Pontiac,Illinois,"13,867",Livingston,"$55,130",478,0.014212232034014212,5
+62289,Urban,Summerfield,Illinois,332,St. Clair,"$43,875",478,0.014212232034014212,5
+47854,Rural,Hillsdale,Indiana,609,Vermillion,"$98,438",79,0.002348883537002349,1
+47104,Suburban,Bethlehem,Indiana,9,Clark,,465,0.013825706895013825,5
+47126,Suburban,Henryville,Indiana,"4,234",Clark,"$79,418",465,0.013825706895013825,5
+47458,Suburban,Smithville,Indiana,48,Monroe,,465,0.013825706895013825,5
+47145,Suburban,Milltown,Indiana,"2,086",Crawford,"$47,950",465,0.013825706895013825,5
+46366,Suburban,North Judson,Indiana,"5,955",Starke,"$50,372",465,0.013825706895013825,5
+46324,Urban,Hammond,Indiana,"21,894",Lake,"$51,730",263,0.00781970088900782,3
+46038,Urban,Fishers,Indiana,"43,067",Hamilton,"$98,522",263,0.00781970088900782,3
+46814,Urban,Fort Wayne,Indiana,"16,180",Allen,"$121,678",263,0.00781970088900782,3
+50535,Rural,Early,Iowa,"1,135",Sac,"$68,333",388,0.011536288764011537,4
+50860,Rural,Redding,Iowa,119,Ringgold,"$45,972",388,0.011536288764011537,4
+50597,Rural,West Bend,Iowa,"1,229",Palo Alto,"$77,566",388,0.011536288764011537,4
+50430,Rural,Corwith,Iowa,371,Hancock,"$52,321",388,0.011536288764011537,4
+51002,Suburban,Alta,Iowa,"2,799",Buena Vista,"$60,568",465,0.013825706895013825,5
+51031,Suburban,Le Mars,Iowa,"12,418",Plymouth,"$70,727",465,0.013825706895013825,5
+52071,Suburban,Saint Donatus,Iowa,116,Jackson,"$36,838",465,0.013825706895013825,5
+51056,Suburban,Smithland,Iowa,349,Woodbury,"$63,857",465,0.013825706895013825,5
+50162,Suburban,Melbourne,Iowa,"1,339",Marshall,"$60,833",465,0.013825706895013825,5
+52228,Urban,Fairfax,Iowa,"3,637",Linn,"$110,240",117,0.0034787262510034785,1
+67334,Rural,Chautauqua,Kansas,79,Chautauqua,,293,0.008711681979008712,3
+67839,Rural,Dighton,Kansas,"1,020",Lane,"$42,917",293,0.008711681979008712,3
+67491,Rural,Windom,Kansas,286,McPherson,"$53,056",293,0.008711681979008712,3
+66026,Suburban,Fontana,Kansas,850,Miami,"$63,558",270,0.008027829810008028,3
+67470,Suburban,New Cambria,Kansas,486,Saline,"$71,250",270,0.008027829810008028,3
+66429,Suburban,Grantville,Kansas,484,Jefferson,"$67,054",270,0.008027829810008028,3
+66606,Urban,Topeka,Kansas,"9,647",Shawnee,"$51,463",140,0.004162578420004163,2
+66506,Urban,Manhattan,Kansas,"3,307",Riley,,140,0.004162578420004163,2
+41810,Rural,Cromona,Kentucky,362,Letcher,,180,0.005351886540005352,2
+41775,Rural,Wendover,Kentucky,76,Leslie,,180,0.005351886540005352,2
+42153,Suburban,Holland,Kentucky,66,Allen,"$19,063",462,0.013736508786013736,5
+40468,Suburban,Perryville,Kentucky,"2,138",Boyle,"$59,907",462,0.013736508786013736,5
+41146,Suburban,Hitchins,Kentucky,522,Carter,"$32,750",462,0.013736508786013736,5
+40334,Suburban,Hope,Kentucky,15,Bath,,462,0.013736508786013736,5
+42127,Suburban,Cave City,Kentucky,"6,960",Barren,"$37,787",462,0.013736508786013736,5
+41005,Urban,Burlington,Kentucky,"25,048",Boone,"$91,979",137,0.004073380311004074,2
+40031,Urban,La Grange,Kentucky,"25,163",Oldham,"$83,248",137,0.004073380311004074,2
+70775,Suburban,Saint Francisville,Louisiana,"10,754",West Feliciana,"$65,674",292,0.008681949276008682,3
+71446,Suburban,Leesville,Louisiana,"21,469",Vernon,"$53,012",292,0.008681949276008682,3
+71441,Suburban,Kelly,Louisiana,795,Caldwell,,292,0.008681949276008682,3
+71201,Urban,Monroe,Louisiana,"21,490",Ouachita,"$51,550",207,0.006154669521006155,2
+70814,Urban,Baton Rouge,Louisiana,"11,582",East Baton Rouge,"$47,116",207,0.006154669521006155,2
+4424,Rural,Danforth,Maine,872,Washington,"$40,098",188,0.00558974816400559,2
+4555,Rural,Nobleboro,Maine,"1,541",Lincoln,"$79,716",188,0.00558974816400559,2
+4265,Suburban,North Monmouth,Maine,790,Kennebec,"$59,286",182,0.005411351946005411,2
+4422,Suburban,Charleston,Maine,"1,176",Penobscot,"$63,333",182,0.005411351946005411,2
+4444,Urban,Hampden,Maine,"9,189",Penobscot,"$92,512",56,0.001665031368001665,1
+21912,Suburban,Warwick,Maryland,"1,393",Cecil,"$71,995",232,0.006897987096006898,3
+21084,Suburban,Jarrettsville,Maryland,"7,254",Harford,"$101,918",232,0.006897987096006898,3
+21762,Suburban,Libertytown,Maryland,184,Frederick,,232,0.006897987096006898,3
+21233,Urban,Baltimore,Maryland,0,Baltimore,,219,0.006511461957006512,2
+20748,Urban,Temple Hills,Maryland,"40,644",Prince George's,"$73,194",219,0.006511461957006512,2
+1373,Suburban,South Deerfield,Massachusetts,"5,076",Franklin,"$83,826",89,0.002646210567002646,1
+2062,Urban,Norwood,Massachusetts,"31,256",Norfolk,"$96,414",428,0.012725596884012726,5
+1985,Urban,West Newbury,Massachusetts,"4,500",Essex,"$164,250",428,0.012725596884012726,5
+1852,Urban,Lowell,Massachusetts,"36,740",Middlesex,"$68,256",428,0.012725596884012726,5
+2170,Urban,Quincy,Massachusetts,"20,130",Norfolk,"$92,052",428,0.012725596884012726,5
+1450,Urban,Groton,Massachusetts,"11,218",Middlesex,"$169,643",428,0.012725596884012726,5
+49835,Rural,Garden,Michigan,661,Delta,"$45,781",203,0.006035738709006036,2
+49838,Rural,Gould City,Michigan,326,Mackinac,"$33,409",203,0.006035738709006036,2
+49905,Suburban,Atlantic Mine,Michigan,"2,533",Houghton,"$74,474",423,0.012576933369012578,5
+49461,Suburban,Whitehall,Michigan,"9,463",Muskegon,"$69,366",423,0.012576933369012578,5
+48117,Suburban,Carleton,Michigan,"10,383",Monroe,"$69,678",423,0.012576933369012578,5
+49638,Suburban,Harrietta,Michigan,886,Wexford,"$44,063",423,0.012576933369012578,5
+48014,Suburban,Capac,Michigan,"4,351",St. Clair,"$62,417",423,0.012576933369012578,5
+48867,Urban,Owosso,Michigan,"27,163",Shiawassee,"$50,700",366,0.010882169298010882,4
+48225,Urban,Harper Woods,Michigan,"16,201",Wayne,"$52,600",366,0.010882169298010882,4
+48747,Urban,Munger,Michigan,"1,555",Bay,"$69,583",366,0.010882169298010882,4
+48328,Urban,Waterford,Michigan,"26,095",Oakland,"$60,825",366,0.010882169298010882,4
+56230,Rural,Danube,Minnesota,779,Renville,"$53,015",298,0.00886034549400886,3
+56557,Rural,Mahnomen,Minnesota,"2,834",Mahnomen,"$44,821",298,0.00886034549400886,3
+55965,Rural,Preston,Minnesota,"2,308",Fillmore,"$56,125",298,0.00886034549400886,3
+56253,Suburban,Lake Lillian,Minnesota,936,Kandiyohi,"$63,462",384,0.011417357952011417,4
+55719,Suburban,Chisholm,Minnesota,"5,710",St. Louis,"$55,172",384,0.011417357952011417,4
+55756,Suburban,Kerrick,Minnesota,274,Pine,"$62,969",384,0.011417357952011417,4
+55339,Suburban,Hamburg,Minnesota,959,Carver,"$83,125",384,0.011417357952011417,4
+56301,Urban,Saint Cloud,Minnesota,"35,453",Stearns,"$61,561",199,0.005916807897005917,2
+55121,Urban,Saint Paul,Minnesota,"8,590",Dakota,"$69,932",199,0.005916807897005917,2
+39631,Rural,Centreville,Mississippi,"3,745",Wilkinson,"$27,192",57,0.0016947640710016948,1
+39776,Suburban,Woodland,Mississippi,"1,186",Chickasaw,"$40,625",277,0.008235958731008236,3
+38921,Suburban,Charleston,Mississippi,"4,847",Tallahatchie,"$34,410",277,0.008235958731008236,3
+38940,Suburban,Holcomb,Mississippi,"1,632",Grenada,"$45,027",277,0.008235958731008236,3
+39269,Urban,Jackson,Mississippi,0,Hinds,,93,0.002765141379002765,1
+65438,Rural,Birch Tree,Missouri,"2,926",Shannon,"$31,938",255,0.007581839265007582,3
+63539,Rural,Ethel,Missouri,272,Macon,,255,0.007581839265007582,3
+64632,Rural,Cainsville,Missouri,361,Mercer,"$55,556",255,0.007581839265007582,3
+63365,Suburban,New Melle,Missouri,79,St. Charles,"$35,972",562,0.01670977908601671,6
+65601,Suburban,Aldrich,Missouri,598,Polk,"$44,762",562,0.01670977908601671,6
+64863,Suburban,South West City,Missouri,"1,419",McDonald,"$49,500",562,0.01670977908601671,6
+65692,Suburban,Koshkonong,Missouri,936,Oregon,"$43,500",562,0.01670977908601671,6
+64833,Suburban,Avilla,Missouri,64,Jasper,,562,0.01670977908601671,6
+65773,Suburban,Wasola,Missouri,564,Ozark,"$65,156",562,0.01670977908601671,6
+65803,Urban,Springfield,Missouri,"42,617",Greene,"$42,485",218,0.006481729254006482,2
+63107,Urban,Saint Louis,Missouri,"9,069",St. Louis,"$33,944",218,0.006481729254006482,2
+59929,Rural,Proctor,Montana,162,Lake,,218,0.006481729254006482,2
+59081,Rural,Silver Gate,Montana,102,Park,"$235,156",218,0.006481729254006482,2
+59820,Suburban,Alberton,Montana,"1,950",Mineral,"$57,885",121,0.0035976570630035978,1
+69334,Rural,Bayard,Nebraska,"2,091",Morrill,"$55,833",301,0.008949543603008949,3
+69120,Rural,Arnold,Nebraska,"1,138",Custer,"$65,556",301,0.008949543603008949,3
+68783,Rural,Verdigre,Nebraska,886,Knox,"$42,917",301,0.008949543603008949,3
+69036,Suburban,Lebanon,Nebraska,66,Red Willow,,203,0.006035738709006036,2
+69123,Suburban,Brady,Nebraska,926,Lincoln,"$64,583",203,0.006035738709006036,2
+68104,Urban,Omaha,Nebraska,"37,274",Douglas,"$51,769",82,0.002438081646002438,1
+89409,Suburban,Gabbs,Nevada,111,Nye,"$58,958",50,0.0014866351500014865,1
+89404,Urban,Denio,Nevada,17,Humboldt,,107,0.0031813992210031816,1
+3816,Rural,Center Tuftonboro,New Hampshire,"1,509",Carroll,"$68,207",81,0.002408348943002408,1
+3750,Suburban,Etna,New Hampshire,889,Grafton,"$174,875",100,0.002973270300002973,1
+3842,Urban,Hampton,New Hampshire,"15,979",Rockingham,"$87,554",66,0.0019623583980019625,1
+8001,Suburban,Alloway,New Jersey,814,Salem,"$93,421",77,0.0022894181310022894,1
+7960,Urban,Morristown,New Jersey,"46,463",Morris,"$147,949",517,0.015371807451015372,6
+7114,Urban,Newark,New Jersey,"13,617",Essex,"$25,042",517,0.015371807451015372,6
+7503,Urban,Paterson,New Jersey,"19,365",Passaic,"$56,645",517,0.015371807451015372,6
+7762,Urban,Spring Lake,New Jersey,"8,442",Monmouth,"$95,609",517,0.015371807451015372,6
+7803,Urban,Mine Hill,New Jersey,"3,976",Morris,"$100,327",517,0.015371807451015372,6
+8011,Urban,Birmingham,New Jersey,0,Burlington,,517,0.015371807451015372,6
+87936,Rural,Garfield,New Mexico,160,Doña Ana,"$18,925",117,0.0034787262510034785,1
+87730,Suburban,Mills,New Mexico,15,Harding,,175,0.0052032230250052035,2
+88023,Suburban,Bayard,New Mexico,"2,197",Grant,"$35,917",175,0.0052032230250052035,2
+88103,Urban,Cannon Afb,New Mexico,0,Curry,,79,0.002348883537002349,1
+12979,Rural,Rouses Point,New York,"2,324",Clinton,"$42,267",291,0.008652216573008652,3
+14744,Rural,Houghton,New York,"2,182",Allegany,"$72,417",291,0.008652216573008652,3
+14736,Rural,Findley Lake,New York,167,Chautauqua,"$67,679",291,0.008652216573008652,3
+14478,Suburban,Keuka Park,New York,"1,527",Yates,"$84,485",699,0.020783159397020783,8
+13620,Suburban,Castorland,New York,"2,154",Lewis,"$53,484",699,0.020783159397020783,8
+14544,Suburban,Rushville,New York,"2,062",Yates,"$59,615",699,0.020783159397020783,8
+13313,Suburban,Bridgewater,New York,566,Oneida,"$40,833",699,0.020783159397020783,8
+12460,Suburban,Oak Hill,New York,262,Albany,,699,0.020783159397020783,8
+14005,Suburban,Alexander,New York,"2,154",Genesee,"$84,297",699,0.020783159397020783,8
+12405,Suburban,Acra,New York,603,Greene,"$60,288",699,0.020783159397020783,8
+14080,Suburban,Holland,New York,"4,107",Erie,"$64,511",699,0.020783159397020783,8
+10305,Urban,Staten Island,New York,"44,531",Richmond,"$76,833",833,0.02476734159902477,9
+12432,Urban,Glasco,New York,675,Ulster,"$34,444",833,0.02476734159902477,9
+10514,Urban,Chappaqua,New York,"13,267",Westchester,"$246,991",833,0.02476734159902477,9
+11581,Urban,Valley Stream,New York,"22,919",Nassau,"$121,442",833,0.02476734159902477,9
+10974,Urban,Sloatsburg,New York,"3,181",Rockland,"$92,639",833,0.02476734159902477,9
+10010,Urban,New York,New York,"33,193",New York,"$131,635",833,0.02476734159902477,9
+11010,Urban,Franklin Square,New York,"25,637",Nassau,"$123,401",833,0.02476734159902477,9
+11433,Urban,Jamaica,New York,"41,396",Queens,"$68,801",833,0.02476734159902477,9
+11804,Urban,Old Bethpage,New York,"4,594",Nassau,"$154,483",833,0.02476734159902477,9
+27982,Rural,Waves,North Carolina,37,Dare,,97,0.002884072191002884,1
+28748,Suburban,Leicester,North Carolina,"11,885",Buncombe,"$45,926",423,0.012576933369012578,5
+28423,Suburban,Bolton,North Carolina,"2,631",Columbus,"$41,213",423,0.012576933369012578,5
+27046,Suburban,Sandy Ridge,North Carolina,"2,266",Stokes,"$47,900",423,0.012576933369012578,5
+28442,Suburban,Hallsboro,North Carolina,"1,464",Columbus,"$52,950",423,0.012576933369012578,5
+27014,Suburban,Cooleemee,North Carolina,741,Davie,"$61,250",423,0.012576933369012578,5
+27502,Urban,Apex,North Carolina,"45,233",Wake,"$124,809",333,0.009900990099009901,4
+28533,Urban,Cherry Point,North Carolina,"3,298",Craven,,333,0.009900990099009901,4
+28159,Urban,Spencer,North Carolina,"2,963",Rowan,"$56,264",333,0.009900990099009901,4
+28208,Urban,Charlotte,North Carolina,"40,885",Mecklenburg,"$44,711",333,0.009900990099009901,4
+58310,Rural,Agate,North Dakota,0,Rolette,,254,0.007552106562007552,3
+58856,Rural,Zahl,North Dakota,54,Williams,,254,0.007552106562007552,3
+58746,Rural,Kenmare,North Dakota,"1,365",Ward,"$56,894",254,0.007552106562007552,3
+58779,Suburban,Ryder,North Dakota,350,McLean,"$61,125",109,0.003240864627003241,1
+44099,Rural,Windsor,Ohio,"2,618",Ashtabula,"$56,500",87,0.002586745161002587,1
+43759,Suburban,Morristown,Ohio,222,Belmont,"$52,917",641,0.019058662623019057,7
+45690,Suburban,Waverly,Ohio,"13,873",Pike,"$48,484",641,0.019058662623019057,7
+45678,Suburban,Scottown,Ohio,"1,051",Lawrence,"$45,268",641,0.019058662623019057,7
+44048,Suburban,Kingsville,Ohio,"2,332",Ashtabula,"$53,396",641,0.019058662623019057,7
+43338,Suburban,Mount Gilead,Ohio,"10,163",Morrow,"$60,735",641,0.019058662623019057,7
+45622,Suburban,Creola,Ohio,326,Vinton,,641,0.019058662623019057,7
+45629,Suburban,Franklin Furnace,Ohio,"3,009",Scioto,"$52,031",641,0.019058662623019057,7
+44682,Urban,Tuscarawas,Ohio,"1,354",Tuscarawas,"$82,659",505,0.015015015015015015,6
+44906,Urban,Mansfield,Ohio,"16,461",Richland,"$43,753",505,0.015015015015015015,6
+43213,Urban,Columbus,Ohio,"35,954",Franklin,"$48,195",505,0.015015015015015015,6
+43311,Urban,Bellefontaine,Ohio,"19,944",Logan,"$63,070",505,0.015015015015015015,6
+45065,Urban,South Lebanon,Ohio,"6,366",Warren,"$104,539",505,0.015015015015015015,6
+43953,Urban,Steubenville,Ohio,"11,928",Jefferson,"$63,696",505,0.015015015015015015,6
+73570,Rural,Tipton,Oklahoma,945,Tillman,"$42,885",165,0.004905895995004906,2
+73625,Rural,Butler,Oklahoma,454,Custer,"$66,250",165,0.004905895995004906,2
+74017,Suburban,Claremore,Oklahoma,"28,272",Rogers,"$59,056",352,0.010465911456010465,4
+74051,Suburban,Ochelata,Oklahoma,"2,178",Washington,"$64,130",352,0.010465911456010465,4
+73556,Suburban,Martha,Oklahoma,141,Jackson,"$41,875",352,0.010465911456010465,4
+74832,Suburban,Carney,Oklahoma,825,Lincoln,"$47,321",352,0.010465911456010465,4
+74107,Urban,Tulsa,Oklahoma,"19,812",Tulsa,"$49,327",147,0.00437070734100437,2
+74078,Urban,Stillwater,Oklahoma,352,Payne,,147,0.00437070734100437,2
+97856,Rural,Long Creek,Oregon,433,Grant,"$38,571",111,0.0033003300330033004,1
+97443,Suburban,Glide,Oregon,"3,052",Douglas,"$70,210",175,0.0052032230250052035,2
+97489,Suburban,Walterville,Oregon,"1,007",Lane,"$62,169",175,0.0052032230250052035,2
+97321,Urban,Albany,Oregon,"29,121",Linn,"$87,435",141,0.0041923111230041925,2
+97520,Urban,Ashland,Oregon,"26,633",Jackson,"$63,777",141,0.0041923111230041925,2
+16695,Rural,Woodbury,Pennsylvania,"1,034",Bedford,"$72,292",171,0.005084292213005084,2
+16923,Rural,Genesee,Pennsylvania,"1,333",Potter,"$59,886",171,0.005084292213005084,2
+15037,Suburban,Elizabeth,Pennsylvania,"10,197",Allegheny,"$68,201",800,0.023786162400023785,9
+17217,Suburban,Concord,Pennsylvania,121,Franklin,"$72,692",800,0.023786162400023785,9
+15746,Suburban,Hillsdale,Pennsylvania,120,Indiana,"$40,714",800,0.023786162400023785,9
+18655,Suburban,Shickshinny,Pennsylvania,"5,395",Luzerne,"$62,532",800,0.023786162400023785,9
+15936,Suburban,Hooversville,Pennsylvania,"1,517",Somerset,"$57,303",800,0.023786162400023785,9
+18920,Suburban,Erwinna,Pennsylvania,320,Bucks,"$123,000",800,0.023786162400023785,9
+17309,Suburban,Brogue,Pennsylvania,"1,947",York,"$82,321",800,0.023786162400023785,9
+16847,Suburban,Kylertown,Pennsylvania,390,Clearfield,"$65,156",800,0.023786162400023785,9
+15444,Suburban,Hiller,Pennsylvania,701,Fayette,,800,0.023786162400023785,9
+18603,Urban,Berwick,Pennsylvania,"19,524",Columbia,"$53,900",862,0.02562958998602563,10
+15112,Urban,East Pittsburgh,Pennsylvania,"3,147",Allegheny,"$42,583",862,0.02562958998602563,10
+18011,Urban,Alburtis,Pennsylvania,"5,702",Berks,"$91,250",862,0.02562958998602563,10
+15207,Urban,Pittsburgh,Pennsylvania,"9,963",Allegheny,"$47,709",862,0.02562958998602563,10
+18510,Urban,Scranton,Pennsylvania,"13,310",Lackawanna,"$43,019",862,0.02562958998602563,10
+17250,Urban,Rouzerville,Pennsylvania,110,Franklin,,862,0.02562958998602563,10
+15065,Urban,Natrona Heights,Pennsylvania,"11,259",Allegheny,"$58,759",862,0.02562958998602563,10
+19380,Urban,West Chester,Pennsylvania,"50,510",Chester,"$115,650",862,0.02562958998602563,10
+15006,Urban,Bairdford,Pennsylvania,309,Allegheny,"$112,034",862,0.02562958998602563,10
+19038,Urban,Glenside,Pennsylvania,"32,697",Montgomery,"$107,366",862,0.02562958998602563,10
+2893,Urban,West Warwick,Rhode Island,"30,823",Kent,"$62,649",61,0.0018136948830018136,1
+29832,Suburban,Johnston,South Carolina,"5,192",Edgefield,"$40,417",235,0.006987185205006987,3
+29696,Suburban,West Union,South Carolina,"5,416",Oconee,"$68,296",235,0.006987185205006987,3
+29945,Suburban,Yemassee,South Carolina,"4,419",Colleton,"$46,528",235,0.006987185205006987,3
+29482,Urban,Sullivans Island,South Carolina,"2,220",Charleston,"$157,743",175,0.0052032230250052035,2
+29588,Urban,Myrtle Beach,South Carolina,"52,184",Horry,"$54,305",175,0.0052032230250052035,2
+57764,Rural,Oglala,South Dakota,"1,907",Oglala Lakota,"$28,674",233,0.006927719799006928,3
+57348,Rural,Hitchcock,South Dakota,784,Beadle,"$69,306",233,0.006927719799006928,3
+57563,Rural,Okreek,South Dakota,161,Todd,"$21,042",233,0.006927719799006928,3
+57747,Suburban,Hot Springs,South Dakota,"5,563",Fall River,"$53,477",114,0.0033895281420033897,1
+38317,Rural,Bruceton,Tennessee,"2,560",Carroll,"$39,205",54,0.0016055659620016055,1
+37848,Suburban,Powder Springs,Tennessee,79,Grainger,,382,0.011357892546011357,4
+38588,Suburban,Whitleyville,Tennessee,"1,093",Jackson,"$39,432",382,0.011357892546011357,4
+37370,Suburban,Riceville,Tennessee,"5,551",McMinn,"$55,874",382,0.011357892546011357,4
+37885,Suburban,Vonore,Tennessee,"5,958",Monroe,"$70,859",382,0.011357892546011357,4
+37341,Urban,Harrison,Tennessee,"13,116",Hamilton,"$80,025",200,0.005946540600005946,2
+37215,Urban,Nashville,Tennessee,"22,829",Davidson,"$133,532",200,0.005946540600005946,2
+76841,Rural,Fort McKavett,Texas,175,Schleicher,,250,0.007433175750007433,3
+79855,Rural,Van Horn,Texas,"2,134",Culberson,"$33,315",250,0.007433175750007433,3
+79538,Rural,Novice,Texas,181,Coleman,,250,0.007433175750007433,3
+75860,Suburban,Teague,Texas,"6,248",Freestone,"$54,958",910,0.027056759730027056,10
+79731,Suburban,Crane,Texas,"4,473",Crane,"$68,057",910,0.027056759730027056,10
+75565,Suburban,McLeod,Texas,207,Cass,"$16,574",910,0.027056759730027056,10
+76250,Suburban,Lindsay,Texas,"1,026",Cooke,"$91,458",910,0.027056759730027056,10
+78343,Suburban,Bishop,Texas,"4,594",Nueces,"$54,615",910,0.027056759730027056,10
+79347,Suburban,Muleshoe,Texas,"6,933",Bailey,"$64,945",910,0.027056759730027056,10
+77514,Suburban,Anahuac,Texas,"5,818",Chambers,"$56,780",910,0.027056759730027056,10
+76050,Suburban,Grandview,Texas,"6,760",Johnson,"$72,004",910,0.027056759730027056,10
+79735,Suburban,Fort Stockton,Texas,"13,267",Pecos,"$54,051",910,0.027056759730027056,10
+75949,Suburban,Huntington,Texas,"8,469",Angelina,"$43,954",910,0.027056759730027056,10
+77082,Urban,Houston,Texas,"52,827",Harris,"$54,686",829,0.02464841078702465,9
+77534,Urban,Danbury,Texas,"3,125",Brazoria,"$103,261",829,0.02464841078702465,9
+79907,Urban,El Paso,Texas,"50,696",El Paso,"$36,438",829,0.02464841078702465,9
+78255,Urban,San Antonio,Texas,"17,545",Bexar,"$134,941",829,0.02464841078702465,9
+78742,Urban,Austin,Texas,"1,099",Travis,"$63,750",829,0.02464841078702465,9
+75023,Urban,Plano,Texas,"48,586",Collin,"$91,883",829,0.02464841078702465,9
+79707,Urban,Midland,Texas,"36,167",Midland,"$96,146",829,0.02464841078702465,9
+78577,Urban,Pharr,Texas,"79,128",Hidalgo,"$39,490",829,0.02464841078702465,9
+78705,Urban,Austin,Texas,"32,506",Travis,"$23,750",829,0.02464841078702465,9
+84759,Rural,Panguitch,Utah,"2,273",Garfield,"$58,667",69,0.0020515565070020514,1
+84762,Suburban,Duck Creek Village,Utah,102,Kane,,108,0.003211131924003211,1
+84526,Urban,Helper,Utah,"4,228",Carbon,"$59,134",121,0.0035976570630035978,1
+5363,Rural,Wilmington,Vermont,"1,994",Windham,"$62,692",139,0.004132845717004133,2
+5346,Rural,Putney,Vermont,"5,283",Windham,"$64,745",139,0.004132845717004133,2
+5821,Suburban,Barnet,Vermont,965,Caledonia,"$62,917",101,0.003003003003003003,1
+23829,Rural,Capron,Virginia,"2,287",Southampton,"$93,750",143,0.0042517765290042515,2
+24377,Rural,Tannersville,Virginia,544,Tazewell,"$49,145",143,0.0042517765290042515,2
+24070,Suburban,Catawba,Virginia,"1,666",Roanoke,"$96,136",479,0.014241964737014242,5
+23970,Suburban,South Hill,Virginia,"7,936",Mecklenburg,"$40,319",479,0.014241964737014242,5
+22534,Suburban,Partlow,Virginia,"3,358",Spotsylvania,"$87,000",479,0.014241964737014242,5
+24333,Suburban,Galax,Virginia,"18,402",Grayson,"$47,364",479,0.014241964737014242,5
+24531,Suburban,Chatham,Virginia,"9,259",Pittsylvania,"$50,996",479,0.014241964737014242,5
+22802,Urban,Harrisonburg,Virginia,"30,149",Rockingham,"$53,438",281,0.008354889543008354,3
+24201,Urban,Bristol,Virginia,"15,863",Bristol,"$42,669",281,0.008354889543008354,3
+22191,Urban,Woodbridge,Virginia,"72,613",Prince William,"$92,432",281,0.008354889543008354,3
+99149,Rural,Malden,Washington,197,Whitman,"$40,455",120,0.003567924360003568,1
+98331,Suburban,Forks,Washington,"5,951",Jefferson,"$43,711",211,0.0062736003330062734,2
+99141,Suburban,Kettle Falls,Washington,"5,902",Ferry,"$53,716",211,0.0062736003330062734,2
+98109,Urban,Seattle,Washington,"29,376",King,"$111,059",274,0.008146760622008148,3
+98272,Urban,Monroe,Washington,"31,517",Snohomish,"$101,637",274,0.008146760622008148,3
+98537,Urban,Cosmopolis,Washington,"2,688",Grays Harbor,"$68,571",274,0.008146760622008148,3
+25984,Rural,Rupert,West Virginia,"1,780",Greenbrier,"$24,848",96,0.0028543394880028543,1
+26238,Suburban,Volga,West Virginia,"1,055",Barbour,"$40,833",496,0.014747420688014748,6
+25644,Suburban,Sarah Ann,West Virginia,544,Logan,,496,0.014747420688014748,6
+26410,Suburban,Newburg,West Virginia,796,Preston,"$57,368",496,0.014747420688014748,6
+26151,Suburban,Mount Zion,West Virginia,744,Calhoun,"$25,568",496,0.014747420688014748,6
+26560,Suburban,Baxter,West Virginia,150,Marion,,496,0.014747420688014748,6
+25611,Suburban,Bruno,West Virginia,"1,032",Logan,"$24,467",496,0.014747420688014748,6
+26030,Urban,Beech Bottom,West Virginia,591,Brooke,"$34,531",146,0.004340974638004341,2
+25702,Urban,Huntington,West Virginia,"7,586",Cabell,"$26,860",146,0.004340974638004341,2
+53934,Rural,Friendship,Wisconsin,"4,303",Adams,"$41,414",225,0.00668985817500669,3
+54746,Rural,Humbird,Wisconsin,686,Clark,"$55,481",225,0.00668985817500669,3
+54436,Rural,Granton,Wisconsin,"2,185",Clark,"$56,563",225,0.00668985817500669,3
+54626,Suburban,Eastman,Wisconsin,"1,457",Crawford,"$54,570",360,0.010703773080010704,4
+54772,Suburban,Wheeler,Wisconsin,"1,044",Dunn,"$64,028",360,0.010703773080010704,4
+53559,Suburban,Marshall,Wisconsin,"6,382",Dane,"$85,012",360,0.010703773080010704,4
+53955,Suburban,Poynette,Wisconsin,"5,662",Columbia,"$84,151",360,0.010703773080010704,4
+54603,Urban,La Crosse,Wisconsin,"14,198",La Crosse,"$48,580",198,0.005887075194005887,2
+53127,Urban,Genesee Depot,Wisconsin,108,Waukesha,"$132,950",198,0.005887075194005887,2
+82932,Rural,Farson,Wyoming,705,Sweetwater,"$63,520",88,0.0026164778640026163,1
+82327,Suburban,Hanna,Wyoming,794,Carbon,"$51,196",62,0.0018434275860018435,1

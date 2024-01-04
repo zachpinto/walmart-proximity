@@ -3,35 +3,42 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="-analysis/data/external/zips.csv">
+        <entry key="/data/interim/walmart_sample.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="-analysis/data/processed/walmart_locations.csv">
+        <entry key="/data/interim/walmart_sample_geocoded.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/interim/walmart_locations.csv">
+        <entry key="/data/interim/zips_sample.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/interim/zip_code_classifications_sample.csv">
+        <entry key="/data/interim/zips_sample_geocoded.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/processed/zip_code_classifications.csv">
+        <entry key="/data/processed/walmart.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed/zips.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

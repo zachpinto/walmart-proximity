@@ -51,7 +51,6 @@ zip,ruca,city,state_name,population,county,median_household_income,stratum_size,
 6488,Urban,Southbury,Connecticut,"19,866",New Haven,"$102,044",204,0.006065471412006,2,41.470921,-73.240839
 6907,Urban,Stamford,Connecticut,"8,849",Fairfield,"$99,861",204,0.006065471412006,2,41.100918,-73.520517
 19904,Urban,Dover,Delaware,"37,940",Kent,"$60,014",50,0.0014866351500014,1,39.160542,-75.597381
-20520,Urban,Washington,District of Columbia,0,District of Columbia,,57,0.0016947640710016,1,38.894759,-77.048407
 32347,Suburban,Perry,Florida,"7,072",Taylor,"$49,430",251,0.0074629084530074,3,30.17247,-83.609333
 34956,Suburban,Indiantown,Florida,"9,751",Martin,"$45,234",251,0.0074629084530074,3,27.106451,-80.45192
 34608,Suburban,Spring Hill,Florida,"35,708",Hernando,"$53,764",251,0.0074629084530074,3,28.482826,-82.552854
@@ -71,7 +70,6 @@ zip,ruca,city,state_name,population,county,median_household_income,stratum_size,
 31034,Urban,Hardwick,Georgia,166,Baldwin,,304,0.009038741712009,3,33.022658,-83.246975
 30436,Urban,Lyons,Georgia,"11,672",Toombs,"$41,528",304,0.009038741712009,3,32.129147,-82.330546
 31027,Urban,East Dublin,Georgia,"10,202",Laurens,"$39,573",304,0.009038741712009,3,32.552377,-82.781684
-96789,Urban,Mililani,Hawaii,"55,249",Honolulu,"$110,840",47,0.0013974370410013,1,21.45,-158.001111
 83325,Rural,Eden,Idaho,700,Jerome,"$59,107",97,0.0028840721910028,1,42.586804,-114.246706
 83868,Suburban,Smelterville,Idaho,656,Shoshone,"$41,094",128,0.0038057859840038,1,47.536163,-116.206234
 83661,Urban,Payette,Idaho,"10,321",Payette,"$52,188",54,0.0016055659620016,1,44.063604,-116.750704
@@ -132,11 +130,6 @@ zip,ruca,city,state_name,population,county,median_household_income,stratum_size,
 71441,Suburban,Kelly,Louisiana,795,Caldwell,,292,0.0086819492760086,3,31.964848,-92.18248
 71201,Urban,Monroe,Louisiana,"21,490",Ouachita,"$51,550",207,0.0061546695210061,2,32.502833,-92.094583
 70814,Urban,Baton Rouge,Louisiana,"11,582",East Baton Rouge,"$47,116",207,0.0061546695210061,2,30.488289,-91.072704
-4424,Rural,Danforth,Maine,872,Washington,"$40,098",188,0.0055897481640055,2,45.658831,-67.866054
-4555,Rural,Nobleboro,Maine,"1,541",Lincoln,"$79,716",188,0.0055897481640055,2,44.07952,-69.48505
-4265,Suburban,North Monmouth,Maine,790,Kennebec,"$59,286",182,0.0054113519460054,2,44.27785,-70.03089
-4422,Suburban,Charleston,Maine,"1,176",Penobscot,"$63,333",182,0.0054113519460054,2,45.066999,-69.040695
-4444,Urban,Hampden,Maine,"9,189",Penobscot,"$92,512",56,0.0016650313680016,1,44.74794,-68.83599
 21912,Suburban,Warwick,Maryland,"1,393",Cecil,"$71,995",232,0.0068979870960068,3,39.41678,-75.77827
 21084,Suburban,Jarrettsville,Maryland,"7,254",Harford,"$101,918",232,0.0068979870960068,3,39.60315,-76.47534
 21762,Suburban,Libertytown,Maryland,184,Frederick,,232,0.0068979870960068,3,39.482208,-77.246761
@@ -184,9 +177,6 @@ zip,ruca,city,state_name,population,county,median_household_income,stratum_size,
 65773,Suburban,Wasola,Missouri,564,Ozark,"$65,156",562,0.0167097790860167,6,36.79367,-92.57572
 65803,Urban,Springfield,Missouri,"42,617",Greene,"$42,485",218,0.0064817292540064,2,37.299377,-93.324456
 63107,Urban,Saint Louis,Missouri,"9,069",St. Louis,"$33,944",218,0.0064817292540064,2,38.66535,-90.212561
-59929,Rural,Proctor,Montana,162,Lake,,218,0.0064817292540064,2,47.907058,-114.341333
-59081,Rural,Silver Gate,Montana,102,Park,"$235,156",218,0.0064817292540064,2,45.004618,-109.98539
-59820,Suburban,Alberton,Montana,"1,950",Mineral,"$57,885",121,0.0035976570630035,1,46.989275,-114.558456
 69334,Rural,Bayard,Nebraska,"2,091",Morrill,"$55,833",301,0.0089495436030089,3,41.760711,-103.32705
 69120,Rural,Arnold,Nebraska,"1,138",Custer,"$65,556",301,0.0089495436030089,3,41.423996,-100.194253
 68783,Rural,Verdigre,Nebraska,886,Knox,"$42,917",301,0.0089495436030089,3,42.624821,-98.129817
@@ -195,9 +185,6 @@ zip,ruca,city,state_name,population,county,median_household_income,stratum_size,
 68104,Urban,Omaha,Nebraska,"37,274",Douglas,"$51,769",82,0.0024380816460024,1,41.295396,-95.99895
 89409,Suburban,Gabbs,Nevada,111,Nye,"$58,958",50,0.0014866351500014,1,38.863664,-117.928173
 89404,Urban,Denio,Nevada,17,Humboldt,,107,0.0031813992210031,1,41.9899,-118.63434
-3816,Rural,Center Tuftonboro,New Hampshire,"1,509",Carroll,"$68,207",81,0.0024083489430024,1,43.65424,-71.24729
-3750,Suburban,Etna,New Hampshire,889,Grafton,"$174,875",100,0.0029732703000029,1,43.697999,-72.215182
-3842,Urban,Hampton,New Hampshire,"15,979",Rockingham,"$87,554",66,0.0019623583980019,1,42.939601,-70.836728
 8001,Suburban,Alloway,New Jersey,814,Salem,"$93,421",77,0.0022894181310022,1,39.559077,-75.350573
 7960,Urban,Morristown,New Jersey,"46,463",Morris,"$147,949",517,0.0153718074510153,6,40.77165,-74.506256
 7114,Urban,Newark,New Jersey,"13,617",Essex,"$25,042",517,0.0153718074510153,6,40.705401,-74.169538
@@ -297,10 +284,6 @@ zip,ruca,city,state_name,population,county,median_household_income,stratum_size,
 29945,Suburban,Yemassee,South Carolina,"4,419",Colleton,"$46,528",235,0.0069871852050069,3,32.692321,-80.887321
 29482,Urban,Sullivans Island,South Carolina,"2,220",Charleston,"$157,743",175,0.0052032230250052,2,32.766336,-79.83951
 29588,Urban,Myrtle Beach,South Carolina,"52,184",Horry,"$54,305",175,0.0052032230250052,2,33.671137,-79.02427
-57764,Rural,Oglala,South Dakota,"1,907",Oglala Lakota,"$28,674",233,0.0069277197990069,3,43.18479,-102.72695
-57348,Rural,Hitchcock,South Dakota,784,Beadle,"$69,306",233,0.0069277197990069,3,44.567404,-98.406424
-57563,Rural,Okreek,South Dakota,161,Todd,"$21,042",233,0.0069277197990069,3,43.36222,-100.38624
-57747,Suburban,Hot Springs,South Dakota,"5,563",Fall River,"$53,477",114,0.0033895281420033,1,43.314186,-103.528353
 38317,Rural,Bruceton,Tennessee,"2,560",Carroll,"$39,205",54,0.0016055659620016,1,36.03812,-88.24449
 37848,Suburban,Powder Springs,Tennessee,79,Grainger,,382,0.0113578925460113,4,36.25369,-83.66963
 38588,Suburban,Whitleyville,Tennessee,"1,093",Jackson,"$39,432",382,0.0113578925460113,4,36.433214,-85.707955

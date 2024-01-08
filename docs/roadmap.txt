@@ -11,9 +11,9 @@
 16_eda: creates list of all zips and all walmart addresses within 90 miles of each zip
 17_eda: *FIND SAMPLE SIZE OF THAT LIST ABOVE*
 18_eda: *CREATE SAMPLE OF THAT LIST ABOVE*
-19_eda: CALCULATE DISTANCE API COST FOR SAMPLE
-20_eda: ADD distance to sample
+19_eda: ADD driving time to sample AND distnace to sample
 
+20_eda: create model using cleaned_time_distance_sample
 21_feature: create model
 23_feature: apply model to all addresses
 24_feature: create final_df

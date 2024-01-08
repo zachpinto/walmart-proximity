@@ -1,4 +1,4 @@
-origin,destination,ruca,great_circle_distance,travel_time
+origin,destination,ruca,great_circle_distance,travel_time,
 "41.295893,-93.104232","41.687183,-93.772041",Suburban,43.87993343943162,55
 "38.763463,-77.186063","38.960109,-78.187619",Urban,55.57037103175507,69
 "44.12036,-69.24005","43.837601,-70.445011",Rural,63.014077992172815,97

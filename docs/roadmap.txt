@@ -12,6 +12,5 @@
 17_eda: *FIND SAMPLE SIZE OF THAT LIST ABOVE*
 18_eda: *CREATE SAMPLE OF THAT LIST ABOVE*
 21_feature: create model
-
 23_feature: apply model to all addresses
 24_feature: create final_df

@@ -59,7 +59,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/processed/final_cleaned_time_distance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/processed/final_cleaned_time_distance_sample.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed/final_cleaned_time_distance_with_coords.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed/final_cleaned_time_distance_with_ruca.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

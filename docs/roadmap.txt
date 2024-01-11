@@ -1,19 +1,18 @@
 00_preprocessing: profile data
 01_preprocessing: create address column
-10_eda: eda
-11_eda: create sample of 380
-12_eda: geocode sample
-13_eda: calculate distance api cost for sample
-14_eda: create distance_sample: contains geocodes and distance
-15_eda: add great circle distance to distance_sample
-20_feature: geocode all addresses
-22_feature: create distance of all possible addresses within 250 miles of zip
-16_eda: creates list of all zips and all walmart addresses within 90 miles of each zip
-17_eda: *FIND SAMPLE SIZE OF THAT LIST ABOVE*
-18_eda: *CREATE SAMPLE OF THAT LIST ABOVE*
-19_eda: ADD driving time to sample AND distnace to sample
-20_eda: create model using cleaned_time_distance_sample
 
-21_feature: create model
-23_feature: apply model to all addresses
-24_feature: create final_df
+10_eda: eda
+
+11_feature: create sample of 380
+12_feature: geocode sample
+13_feature: calculate distance api cost for sample
+14_feature: add distance to sample
+15_feature: add great circle distance to distance_sample
+16_feature: geocode all addresses
+17_feature: create distance of all possible addresses within 250 miles of zip
+18_feature: creates list of all zips and all walmart addresses within 10 miles radius of each zip
+19_feature: *FIND SAMPLE SIZE OF THAT LIST ABOVE*
+20_feature: *CREATE SAMPLE OF THAT LIST ABOVE*
+21_feature: ADD driving time to sample AND distance to sample
+
+22_model: create model

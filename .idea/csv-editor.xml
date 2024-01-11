@@ -17,13 +17,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/final_zips.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/data/interim/distance_sample.csv">
           <value>
             <Attribute>
@@ -81,27 +74,6 @@
           </value>
         </entry>
         <entry key="/data/processed/final_cleaned_time_distance_sample.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/data/processed/final_cleaned_time_distance_with_coords.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/data/processed/final_cleaned_time_distance_with_great_circle_distance.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/data/processed/final_cleaned_time_distance_with_ruca.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

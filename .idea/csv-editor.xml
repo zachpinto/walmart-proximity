@@ -10,13 +10,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/final/final_zips.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/data/interim/distance_sample.csv">
           <value>
             <Attribute>

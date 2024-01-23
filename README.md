@@ -1,10 +1,11 @@
 # Walmart Proximity Analysis
-==============================
 
+This project explores the proximity of populations to Walmart locations, integrating geospatial data and statistical analysis.
+=============================
 
 ## Introduction
 - **Background**:
-    - This project explores the proximity of populations to Walmart locations, integrating geospatial data and statistical analysis.
+    - Walmart claims that over 90% of Americans live within 10 miles of a Walmart location.
 - **Objectives**:
     - To analyze the correlation between Walmart proximity and factors such as median household income and (RUCA) rural-urban classifications.
     - Develop models to predict driving distances and driving times to Walmart locations.

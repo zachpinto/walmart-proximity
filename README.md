@@ -1,36 +1,37 @@
-# Title
+# Walmart Proximity Analysis
 ==============================
 
-## Demo
 
 ## Introduction
 - **Background**:
     - This project explores the proximity of populations to Walmart locations, integrating geospatial data and statistical analysis.
-    - A comprehensive study on accessibility, socio-economic factors, and demographic analysis.
 - **Objectives**:
-    - To analyze the correlation between Walmart proximity and socio-economic factors like median household income and rural-urban classifications.
-    - Develop models to predict driving distances and times to Walmart locations.
+    - To analyze the correlation between Walmart proximity and factors such as median household income and (RUCA) rural-urban classifications.
+    - Develop models to predict driving distances and driving times to Walmart locations.
 - **Research Questions**:
-    - How does the proximity of Walmarts vary with socio-economic and demographic factors?
     - Can we accurately predict driving time and distance to Walmarts for different populations?
+    - How does the proximity of Walmarts vary with various economic predictor variables?
+
 
 ## Data 
 - **Data Sources**:
-    - Utilized datasets include Walmart locations, zip code demographics, and RUCA (Rural-Urban Commuting Area) classifications.
-    - Geospatial coordinates for Walmart stores and zip code areas were integrated for proximity analysis.
+    - Scraped Walmart location data from the Walmart [store locator webpage](https://www.walmart.com/store-finder)
+    - Sourced zip code and RUCA classification from the USDA [RUCA Codes](https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes/)
+    - Geospatial coordinates for Walmart stores and zip code areas were integrated for proximity analysis using the GeoPy library for python
 - **Data Attributes**:
     - Analyzed attributes include zip code populations, median household incomes, and geospatial data for Walmarts and zip code areas.
 
 ## Methodology
 - **Data Processing**:
-    - Data from various sources were cleaned, merged, and transformed for analysis.
+    - Data from the sources were cleaned, merged, and transformed for analysis.
     - RUCA codes were encoded, and great circle distances were calculated for proximity analysis.
 - **Geospatial Analysis**:
     - Utilized geospatial data to assess the proximity of populations to Walmart stores.
+    - The general assumption is that great circle distance serves a generally strong predictor of actual driving distance/time distance.
     - Created visualizations to explore spatial relationships and distributions.
 - **Statistical Analysis**:
-    - Developed linear regression models to predict driving distances and times.
-    - Conducted correlation and descriptive analyses to understand socio-economic impacts on Walmart accessibility.
+    - Developed linear regression models to predict driving distances and times using great cirlce distance
+    - Conducted correlation and descriptive analyses to understand pfdcitor impacts on Walmart accessibility.
 - **User Interface**:
     - Leveraged Tableau for dynamic visualizations and interactive data exploration.
 
@@ -39,15 +40,15 @@
     - Examined demographic distributions and Walmart locations to identify trends and patterns.
 - **Proximity Analysis**:
     - Analyzed the physical distance of populations to Walmart stores.
-    - Highlighted areas with limited accessibility.
 - **Correlation Analysis**:
     - Investigated the relationship between socio-economic factors and the number of Walmarts within a 10-mile radius.
 
 ## Results
 - **Findings**:
-    - Identified key socio-economic factors influencing Walmart accessibility.
-    - Determined areas with high and low Walmart accessibility.
-- **Visualizations**:
+    - Walmart's own research claims that 90% of Americans live within 10 miles of a Walmart store
+    - My findings show that between 79% and 86% of Americans live within 10 miles of a Walmart store
+    - According to the model
+- **Visualizations**
     - Created comprehensive charts and maps to illustrate findings and support insights.
 
 ## Discussion
@@ -61,11 +62,6 @@
     - Proposed further studies with additional variables and refined models.
     - Recommended exploring other retail chains for comparative analysis.
 
-## Appendix
-- **Technical Details**:
-    - Detailed the methodologies and tools used in data processing and analysis.
-- **References**:
-    - Cited all data sources, research papers, and other materials referenced in the project.
 
 ## Project Organization
 ------------

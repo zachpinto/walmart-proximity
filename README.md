@@ -1,7 +1,7 @@
 # Walmart Proximity Analysis
+=============================
 
 This project explores the proximity of populations to Walmart locations, integrating geospatial data and statistical analysis.
-=============================
 
 ## Introduction
 - **Background**:
